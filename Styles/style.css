@@ -75,6 +75,7 @@ body {
     width: 100%;
 }
 .home-frunt h1 {
+    font-family: Cursive;
     display: flex;
     justify-content: center;
     margin-top: 100px;

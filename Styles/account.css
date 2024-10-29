@@ -47,3 +47,42 @@ body {
     position: absolute;
     bottom: 20px;
 }
+
+
+
+
+.account-sidebar {
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 100px;
+    height: 300px;
+    width: 100px;
+}
+.account-sidebar a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 27px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    height: 40px;
+    width: 140px;
+}
+.account-sidebar .selected a {
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+
+
+
+.account-info {
+    position: absolute;
+    background: yellow;
+    margin-top: 45px;
+    margin-left: 640px;
+    width: 900px;
+    height: 900px;
+}
