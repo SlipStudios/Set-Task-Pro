@@ -39,6 +39,17 @@ body {
     border-width: 10px;
     font-size: 13px;
 }
+.sidebar .top .goals .pro-sign a {
+    position: absolute;
+    margin-top: -27px;
+    margin-left: 125px;
+    color: rgb(0, 52, 97);
+    background: rgb(105, 185, 255);
+    border-radius: 50px;
+    border: 10px solid rgb(105, 185, 255);
+    border-width: 10px;
+    font-size: 13px;
+}
 .sidebar i {
     margin-top: 20px;
     margin-left: 20px;
@@ -46,4 +57,24 @@ body {
 .sidebar .bottom {
     position: absolute;
     bottom: 20px;
+}
+
+
+
+
+@media only screen and (max-width: 400px) {
+    body {
+        
+        width: 90%;
+        height: 90%;
+
+    }
+}
+@media only screen and (max-width: 800px) {
+    body {
+        
+        width: 90%;
+        height: 90%;
+        
+    }
 }
