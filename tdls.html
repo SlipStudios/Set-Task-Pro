@@ -5,6 +5,8 @@
         <link rel="stylesheet" href="Styles/tbls.css">
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
         <link rel="icon" type="img/png" href="Styles/Images/Set Task Pro (Logo 2 No BG).png">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </header>
     <body>
         <div class="sidebar">
@@ -40,5 +42,28 @@
                 </div>
             </div>
         </div>
+        <div class="body-top">
+            <a>Task Lists</a>
+            <div class="icon">
+                <a id="openPopup" href="#"><i class='bx bx-plus bx-md'></i></a>
+            </div>
+            <div class="line"></div>
+        </div>
+        <div id="menu" class="make-new-tasklist">
+            <div class="overlay" id="overlay"></div>
+
+            <div class="popup" id="popup">
+                <span class="close" id="closePopup">&times;</span>
+                <h2>Create New Task List</h2>
+                <label for="titleInput">List Title</label>
+                <input type="text" id="titleInput" placeholder="Title" required>
+                <label for="dateInput">Date To Complete (Optional)</label>
+                <input type="date" id="dateInput" required maxlength="8" minlength="8">
+                <button id="submitBtn">Create</button>
+            </div>
+        </div>
+
+
+        <script src="JS/makelists.js"></script>
     </body>
 </html>
