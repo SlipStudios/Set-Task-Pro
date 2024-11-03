@@ -25,6 +25,7 @@ submitButton.addEventListener('click', () => {
     alert(`Title: ${title}\nDue Date: ${dueDate}`);
     popup.style.display = 'none';
     overlay.style.display = 'none';
-    clearIntervdocument.getElementById('titleInput').value = '';
-    clearIntervdocument.getElementById('dateInput').value = '';
+    setTimeout(1000)
+    document.getElementById('titleInput').value = '';
+    document.getElementById('dateInput').value = '';
 });

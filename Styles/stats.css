@@ -58,3 +58,26 @@ body {
     position: absolute;
     bottom: 20px;
 }
+
+
+
+
+/* Media Queries for Responsive Scaling */
+@media (max-width: 600px) {
+    body {
+        width: 100%; /* Smaller font size for mobile */
+        height: 100vh;
+    }
+}
+@media (min-width: 601px) and (max-width: 1024px) {
+    body {
+        width: 100%; /* Medium font size for tablets */
+        height: 100vh;
+    }
+}
+@media (min-width: 1025px) {
+    body {
+        width: 100%; /* Larger font size for desktops */
+        height: 100vh;
+    }
+}
