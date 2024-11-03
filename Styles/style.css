@@ -113,7 +113,7 @@ body {
     justify-content: center;
     font-size: 57px;
     font-weight: 600;
-    top: 50px;
+    top: 75px;
     color: black;
 }
 #features .one {
@@ -494,6 +494,7 @@ body {
     font-size: 27px;
     margin-top: 25px;
     margin-left: 30px;
+    color: black;
 }
 #pricing .p-295 .MP {
     position: absolute;
