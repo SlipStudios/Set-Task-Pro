@@ -165,7 +165,7 @@ body {
     align-items: center;
     justify-content: center;
     position: absolute;
-    margin-left: 60%;
+    margin-left: 53%;
     margin-top: 0;
     font-size: 50px;
     height: 70px;
@@ -175,7 +175,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 60%;
+    margin-left: 53%;
     margin-top: 0;
     font-size: 50px;
     height: 70px;
@@ -200,7 +200,7 @@ body {
     font-weight: 600;
     color: rgb(90, 82, 82);
     line-height: 1.4;
-    margin-left: 60%;
+    margin-left: 53%;
 }
 #features .three {
     position: absolute;
