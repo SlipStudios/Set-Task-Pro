@@ -32,7 +32,7 @@ body {
     display: flex;
     align-items: center;
     background: rgb(177, 177, 177);
-    width: 620px;
+    width: 32%;
     height: 70px;
     border-radius: 50px;
     z-index: 1000000;
@@ -133,17 +133,17 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 550px;
+    width: 28.65%;
 }
 #features .one img {
-    width: 500px;
+    width: 26.04%;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
 }
 #features .one p {
     position: absolute;
-    width: 550px;
+    width: 28.65%;
     height: 290px;
     margin-left: 302px;
     margin-top: 50px;
@@ -169,7 +169,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 130px;
+    width: 6.771%;
 }
 #features .two h1 {
     display: flex;
@@ -179,21 +179,21 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 550px;
+    width: 28.65%;
 }
 #features .two img {
     display: flex;
     align-items: center;
     justify-content: center;
     position: absolute;
-    width: 500px;
+    width: 26.04%;
     height: 400px;
     border-radius: 50px;
     margin-left: 350px;
 }
 #features .two p {
     position: absolute;
-    width: 550px;
+    width: 28.65%;
     height: 290px;
     margin-top: 50px;
     font-size: 25px;
@@ -219,17 +219,17 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 550px;
+    width: 28.65%;
 }
 #features .three img {
-    width: 500px;
+    width: 26.04%;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
 }
 #features .three p {
     position: absolute;
-    width: 550px;
+    width: 28.65%;
     height: 290px;
     margin-left: 302px;
     margin-top: 120px;
@@ -255,7 +255,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 130px;
+    width: 6.771%;
 }
 #features .fore h1 {
     display: flex;
@@ -265,21 +265,21 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 550px;
+    width: 28.65%;
 }
 #features .fore img {
     display: flex;
     align-items: center;
     justify-content: center;
     position: absolute;
-    width: 500px;
+    width: 26.04;
     height: 400px;
     border-radius: 50px;
     margin-left: 350px;
 }
 #features .fore p {
     position: absolute;
-    width: 550px;
+    width: 28.65%;
     height: 290px;
     margin-top: 120px;
     font-size: 25px;
@@ -305,17 +305,17 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 550px;
+    width: 28.65%;
 }
 #features .five img {
-    width: 500px;
+    width: 26.04;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
 }
 #features .five p {
     position: absolute;
-    width: 550px;
+    width: 28.65%;
     height: 290px;
     margin-left: 302px;
     margin-top: 120px;
@@ -341,7 +341,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 130px;
+    width: 6.771%;
 }
 #features .six h1 {
     display: flex;
@@ -351,21 +351,21 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 550px;
+    width: 28.65%;
 }
 #features .six img {
     display: flex;
     align-items: center;
     justify-content: center;
     position: absolute;
-    width: 500px;
+    width: 26.04%;
     height: 400px;
     border-radius: 50px;
     margin-left: 350px;
 }
 #features .six p {
     position: absolute;
-    width: 550px;
+    width: 28.65%;
     height: 290px;
     margin-top: 180px;
     font-size: 25px;
@@ -391,17 +391,17 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 550px;
+    width: 28.65%;
 }
 #features .seven img {
-    width: 500px;
+    width: 26.04%;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
 }
 #features .seven p {
     position: absolute;
-    width: 550px;
+    width: 28.65%;
     height: 290px;
     margin-left: 302px;
     margin-top: 120px;
