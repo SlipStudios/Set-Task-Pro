@@ -100,8 +100,6 @@ body {
 
 
 #features {
-    display: flex;
-    justify-content: center;
     background: white;
     margin-top: 1400px;
     width: 100%;
@@ -109,8 +107,6 @@ body {
 }
 #features h1 {
     position: relative;
-    display: flex;
-    justify-content: center;
     font-size: 57px;
     font-weight: 600;
     top: 75px;
@@ -118,16 +114,11 @@ body {
 }
 #features .one {
     position: absolute;
-    display: flex;
-    align-items: center;
     width: 100%;
     height: 500px;
     margin-top: 180px;
 }
 #features .one h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin-left: 300px;
     margin-top: 0;
@@ -136,7 +127,7 @@ body {
     width: 28.65%;
 }
 #features .one img {
-    width: 26.04%;
+    width: 500px;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
@@ -154,16 +145,11 @@ body {
 }
 #features .two {
     position: absolute;
-    display: flex;
-    align-items: center;
     width: 100%;
     height: 500px;
     margin-top: 730px;
 }
 #features .two h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin-left: 300px;
     margin-top: 0;
@@ -172,9 +158,6 @@ body {
     width: 6.771%;
 }
 #features .two h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     margin-left: 950px;
     margin-top: 0;
     font-size: 50px;
@@ -182,11 +165,8 @@ body {
     width: 28.65%;
 }
 #features .two img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
-    width: 26.04%;
+    width: 500px;
     height: 400px;
     border-radius: 50px;
     margin-left: 350px;
@@ -204,16 +184,11 @@ body {
 }
 #features .three {
     position: absolute;
-    display: flex;
-    align-items: center;
     width: 100%;
     height: 500px;
     margin-top: 1280px;
 }
 #features .three h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin-left: 300px;
     margin-top: 0;
@@ -222,7 +197,7 @@ body {
     width: 28.65%;
 }
 #features .three img {
-    width: 26.04%;
+    width: 500px;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
@@ -240,16 +215,11 @@ body {
 }
 #features .fore {
     position: absolute;
-    display: flex;
-    align-items: center;
     width: 100%;
     height: 500px;
     margin-top: 1830px;
 }
 #features .fore h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin-left: 300px;
     margin-top: 0;
@@ -258,9 +228,6 @@ body {
     width: 6.771%;
 }
 #features .fore h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     margin-left: 950px;
     margin-top: 0;
     font-size: 50px;
@@ -268,11 +235,8 @@ body {
     width: 28.65%;
 }
 #features .fore img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
-    width: 26.04;
+    width: 500px;
     height: 400px;
     border-radius: 50px;
     margin-left: 350px;
@@ -290,16 +254,11 @@ body {
 }
 #features .five {
     position: absolute;
-    display: flex;
-    align-items: center;
     width: 100%;
     height: 500px;
     margin-top: 2380px;
 }
 #features .five h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin-left: 300px;
     margin-top: 0;
@@ -308,7 +267,7 @@ body {
     width: 28.65%;
 }
 #features .five img {
-    width: 26.04;
+    width: 500px;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
@@ -326,16 +285,11 @@ body {
 }
 #features .six {
     position: absolute;
-    display: flex;
-    align-items: center;
     width: 100%;
     height: 500px;
     margin-top: 2930px;
 }
 #features .six h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin-left: 300px;
     margin-top: 0;
@@ -344,9 +298,6 @@ body {
     width: 6.771%;
 }
 #features .six h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     margin-left: 950px;
     margin-top: 0;
     font-size: 50px;
@@ -354,11 +305,8 @@ body {
     width: 28.65%;
 }
 #features .six img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
-    width: 26.04%;
+    width: 500px;
     height: 400px;
     border-radius: 50px;
     margin-left: 350px;
@@ -376,16 +324,11 @@ body {
 }
 #features .seven {
     position: absolute;
-    display: flex;
-    align-items: center;
     width: 100%;
     height: 500px;
     margin-top: 3480px;
 }
 #features .seven h1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin-left: 300px;
     margin-top: 0;
@@ -394,7 +337,7 @@ body {
     width: 28.65%;
 }
 #features .seven img {
-    width: 26.04%;
+    width: 500px;
     height: 400px;
     border-radius: 50px;
     margin-left: 950px;
