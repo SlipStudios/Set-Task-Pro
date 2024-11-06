@@ -146,11 +146,12 @@ body {
     width: 28.65%;
     height: 290px;
     margin-left: 15.73%;
-    margin-top: 50px;
+    margin-top: 1.241%;
     font-size: 25px;
     font-weight: 600;
     color: rgb(90, 82, 82);
     line-height: 1.4;
+    padding-top: 40px;
 }
 #features .two {
     position: absolute;
@@ -195,12 +196,13 @@ body {
     position: absolute;
     width: 28.65%;
     height: 290px;
-    margin-top: 50px;
+    margin-top: 1.241%;
     font-size: 25px;
     font-weight: 600;
     color: rgb(90, 82, 82);
     line-height: 1.4;
     margin-left: 57%;
+    padding-top: 40px;
 }
 #features .three {
     position: absolute;
@@ -232,11 +234,12 @@ body {
     width: 28.65%;
     height: 290px;
     margin-left: 15.73%;
-    margin-top: 120px;
+    margin-top: 2.978%;
     font-size: 25px;
     font-weight: 600;
     color: rgb(90, 82, 82);
     line-height: 1.4;
+    padding-top: 40px;
 }
 #features .fore {
     position: absolute;
@@ -281,12 +284,13 @@ body {
     position: absolute;
     width: 28.65%;
     height: 290px;
-    margin-top: 120px;
+    margin-top: 2.978%;
     font-size: 25px;
     font-weight: 600;
     color: rgb(90, 82, 82);
     line-height: 1.4;
     margin-left: 57%;
+    padding-top: 40px;
 }
 #features .five {
     position: absolute;
@@ -318,11 +322,12 @@ body {
     width: 28.65%;
     height: 290px;
     margin-left: 15.73%;
-    margin-top: 120px;
+    margin-top: 2.978%;
     font-size: 25px;
     font-weight: 600;
     color: rgb(90, 82, 82);
     line-height: 1.4;
+    padding-top: 40px;
 }
 #features .six {
     position: absolute;
@@ -367,12 +372,13 @@ body {
     position: absolute;
     width: 28.65%;
     height: 290px;
-    margin-top: 180px;
+    margin-top: 4.467%;
     font-size: 25px;
     font-weight: 600;
     color: rgb(90, 82, 82);
     line-height: 1.4;
     margin-left: 57%;
+    padding-top: 40px;
 }
 #features .seven {
     position: absolute;
@@ -401,10 +407,11 @@ body {
 }
 #features .seven p {
     position: absolute;
+    padding-top: 40px;
     width: 28.65%;
     height: 290px;
     margin-left: 15.73%;
-    margin-top: 120px;
+    margin-top: 2.978%;
     font-size: 25px;
     font-weight: 600;
     color: rgb(90, 82, 82);
