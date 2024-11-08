@@ -130,7 +130,7 @@ body {
     justify-content: center;
     position: absolute;
     margin-left: 15.63%;
-    margin-top: 0;
+    margin-top: 0px;
     font-size: 50px;
     height: 70px;
     width: 28.65%;
@@ -171,7 +171,6 @@ body {
     font-size: 50px;
     height: 70px;
     width: 33%;
-    background: yellow;
 }
 #features .two h1 {
     display: flex;
@@ -371,7 +370,7 @@ body {
 }
 #features .six p {
     position: absolute;
-    width: 28.65%;
+    width: 33%;
     height: 290px;
     margin-top: 4.467%;
     font-size: 25px;
