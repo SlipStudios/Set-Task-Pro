@@ -170,7 +170,8 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 6.771%;
+    width: 33%;
+    background: yellow;
 }
 #features .two h1 {
     display: flex;
@@ -180,7 +181,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 28.65%;
+    width: 33%;
 }
 #features .two img {
     display: flex;
@@ -194,7 +195,7 @@ body {
 }
 #features .two p {
     position: absolute;
-    width: 28.65%;
+    width: 33%;
     height: 290px;
     margin-top: 1.241%;
     font-size: 25px;
@@ -258,7 +259,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 6.771%;
+    width: 33%;
 }
 #features .fore h1 {
     display: flex;
@@ -268,7 +269,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 28.65%;
+    width: 33%;
 }
 #features .fore img {
     display: flex;
@@ -282,7 +283,7 @@ body {
 }
 #features .fore p {
     position: absolute;
-    width: 28.65%;
+    width: 33%;
     height: 290px;
     margin-top: 2.978%;
     font-size: 25px;
@@ -346,7 +347,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 6.771%;
+    width: 33%;
 }
 #features .six h1 {
     display: flex;
@@ -356,7 +357,7 @@ body {
     margin-top: 0;
     font-size: 50px;
     height: 70px;
-    width: 28.65%;
+    width: 33%;
 }
 #features .six img {
     display: flex;
